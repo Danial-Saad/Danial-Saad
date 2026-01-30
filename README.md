@@ -17,16 +17,19 @@ I'm a passionate **IT Engineering student** at **Damascus University**, dedicate
 ### 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,git&theme=dark" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 GitHub Achievements & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=transparent&hide_border=true&title_color=45A1FF&icon_color=45A1FF&text_color=ffffff" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=transparent&hide_border=true&title_color=45A1FF&text_color=ffffff" height="150" alt="Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[Danial-Saad]&theme=tokyonight&no-bg=true&column=4" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Danial-Saad]&theme=react-dark&bg_color=0d1117&hide_border=true&color=45A1FF" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -48,4 +51,4 @@ I'm a passionate **IT Engineering student** at **Damascus University**, dedicate
 </p>
 
 ---
-<p align="center">Built with 💻 and ☕ by Danial</p>
+<p align="center">Built with 💻 and ☕ .. by Danial</p>
