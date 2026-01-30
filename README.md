@@ -25,8 +25,8 @@ I'm a passionate **IT Engineering student** at **Damascus University**, dedicate
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="[YourUsername]'s GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=[Danial-Saad]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="[Danial-Saad]'s GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Danial-Saad]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
   <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -51,4 +51,5 @@ I'm a passionate **IT Engineering student** at **Damascus University**, dedicate
 </p>
 
 ---
-<p align="center">Built with 💻 and ☕ by Danial</p>
+<p align="center">Built with 💻 and ☕
+  by Danial</p>
