@@ -1,14 +1,14 @@
 # 👋 Hello, I'm Danial
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=IT+Engineering+Student;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=IT+Engineering+Student;Interested+in+Backend+Development+and+AI;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 About Me
 I'm a passionate **IT Engineering student** at **Damascus University**, dedicated to building clean, efficient, and user-friendly software. I love exploring new technologies and solving complex problems through code.
 
 - 🎓 Studying at the **Faculty of Information Technology Engineering**.
-- 🚀 Deep interest in **Artificial Intelligence** and **Software Development**.
+- 🚀 Interested in **Backend Development and AI**.
 - 🎯 Goal: To leverage AI to create impactful software solutions.
 - 💡 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — **Martin Fowler**
 
@@ -25,11 +25,8 @@ I'm a passionate **IT Engineering student** at **Damascus University**, dedicate
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=[Danial-Saad]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="[Danial-Saad]'s GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Danial-Saad]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=transparent&hide_border=true&title_color=45A1FF&icon_color=45A1FF&text_color=ffffff" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=transparent&hide_border=true&title_color=45A1FF&text_color=ffffff" height="150" alt="Languages" />
 </p>
 
 ---
@@ -51,5 +48,4 @@ I'm a passionate **IT Engineering student** at **Damascus University**, dedicate
 </p>
 
 ---
-<p align="center">Built with 💻 and ☕
-  by Danial</p>
+<p align="center">Built with 💻 and ☕ by Danial</p>
