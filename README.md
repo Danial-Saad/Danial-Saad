@@ -23,17 +23,6 @@ I'm a passionate **IT Engineering student** at **Damascus University**, dedicate
 
 ---
 
-### 🏆 GitHub Achievements & Activity
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Danial-Saad&theme=tokyonight&no-bg=true&column=4" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danial-Saad&theme=react-dark&bg_color=0d1117&hide_border=true&color=45A1FF" width="100%" alt="Activity Graph" />
-</p>
-
----
-
 ### 📫 Let's Connect
 <p align="center">
   <a href="https://wa.me/963935310812" target="_blank">
