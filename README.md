@@ -34,13 +34,6 @@ I'm a passionate **IT Engineering student** at **Damascus University**, dedicate
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Danial-Saad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/danial-saad-030a2a3a9" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="LinkedIn" /></a>&nbsp;&nbsp;
