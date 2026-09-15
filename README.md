@@ -25,21 +25,11 @@ I'm a passionate **IT Engineering student** at **Damascus University**, dedicate
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/danial-saad-030a2a3a9" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/963935310812" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="45" height="45" alt="WhatsApp" />
-  </a>
-  <a href="https://t.me/Danial_Saad" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="45" height="45" alt="Telegram" />
-  </a>
-  <a href="https://www.instagram.com/danial_saad_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" height="45" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/share/1KxoP3kPem/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="45" height="45" alt="Facebook" />
-  </a>
+  <a href="https://www.linkedin.com/in/danial-saad-030a2a3a9" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="LinkedIn" /></a>
+  <a href="https://wa.me/963935310812" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="45" height="45" alt="WhatsApp" /></a>
+  <a href="https://t.me/Danial_Saad" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="45" height="45" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/danial_saad_o" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" height="45" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/share/1KxoP3kPem/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="45" height="45" alt="Facebook" /></a>
 </p>
 
 ---
