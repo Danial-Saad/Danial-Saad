@@ -26,21 +26,20 @@ I'm a passionate **IT Engineering student** at **Damascus University**, dedicate
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/danial-saad-030a2a3a9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/963935310812" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="45" height="45" alt="WhatsApp" />
   </a>
   <a href="https://t.me/Danial_Saad" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-24A1DE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" width="45" height="45" alt="Telegram" />
   </a>
   <a href="https://www.instagram.com/danial_saad_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" height="45" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/share/1KxoP3kPem/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="45" height="45" alt="Facebook" />
   </a>
 </p>
-
 ---
 <p align="center">Built with 💻 and ☕ by <b>Danial</b></p>
