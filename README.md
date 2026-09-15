@@ -1,16 +1,17 @@
 # 👋 Hello, I'm Danial
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=IT+Engineering+Student;Frontend+%26+Mobile+Developer;Competitive+Programmer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=IT+Engineering+Student;Frontend+%26+Mobile+Developer;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 About Me
-I'm a passionate **IT Engineering student** at **Damascus University**, dedicated to building responsive, modern, and user-centric web and mobile interfaces. I love crafting seamless user experiences and solving complex problems through clean code.
+I'm a passionate **IT Engineering student** at **Damascus University**, dedicated to building responsive, modern, and user-centric web and mobile interfaces. I love crafting clean code and solving complex algorithmic challenges.
 
 - 🎓 Studying at the **Faculty of Information Technology Engineering**.
+- 💻 Core Languages: **C++, Python, Java, Dart**.
 - 🎨 Focused on **Frontend Web Development, Mobile Development (Flutter), and UI/UX**.
-- 🏆 Active **Competitive Programmer** solving algorithmic challenges on **Codeforces** with **C++**.
-- 🎯 Current Goal: Crafting high-performance, accessible user interfaces and cross-platform applications.
+- 🏆 Active **Competitive Programmer** solving algorithmic challenges on **Codeforces**.
+- 🎯 Current Goal: Crafting high-performance cross-platform applications and interactive interfaces.
 - 💡 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — **Martin Fowler**
 
 ---
@@ -27,16 +28,15 @@ I'm a passionate **IT Engineering student** at **Damascus University**, dedicate
 ### 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,html,css,js,ts,react,nextjs,tailwind,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,dart,flutter,html,css,git&theme=dark" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danial-Saad&show_icons=true&theme=tokyonight&hide_border=true&title_color=45a1ff&icon_color=45a1ff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danial-Saad&layout=compact&theme=tokyonight&hide_border=true&title_color=45a1ff" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Danial-Saad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
